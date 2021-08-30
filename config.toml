@@ -1,5 +1,5 @@
 baseURL = "https://csw609.github.io"
-title = "Your title"
+title = "최석원의 블로그"
 
 theme = "m10c"
 paginate = 8
